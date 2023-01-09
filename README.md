@@ -1,4 +1,4 @@
-# Axisymmteric-3D-Heat-Simulation
+# Axisymmteric-3D-Heat-Simulation (Computational Heat Transfer)
 Simulation of heat transfer in an axisymmetric mesh using Finite Difference Method.
 Pre-defined cases are solved with the code to demonstrate usability of FDM for solution of PDES. Both implicit and explicit schemes have been employed to generate results. The boundary condition is assumed to be that the outer wall of the cylinder is at 35 C.
 A case for convective heat transfer is also simualted with air temperature of 25 C and convective heat transfer of 15 W/Km2.
